@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">amount_page</string>
+    <string name="fone_pay">Fone_Pay</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="rs">Rs</string>
+    <string name="amount_num">50,00000.00</string>
+</resources>
